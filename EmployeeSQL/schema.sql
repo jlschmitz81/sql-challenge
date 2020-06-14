@@ -1,4 +1,4 @@
-DROP TABLE departments;
+
 
 CREATE TABLE departments (
 	dept_no VARCHAR,
